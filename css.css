@@ -1,0 +1,132 @@
+body{
+    background: url(https://cdn.discordapp.com/attachments/827381273941114900/1031002875280752641/pngfondo2.png);  background-position: center; background-repeat: no-repeat; background-attachment: fixed;;
+    background-position: center;
+}
+#titulo{
+    color: #FBFBFB;
+    font-size: 130%;
+    margin-left: -30px;
+}
+nav {
+    background-color: #0e1111;
+    position:fixed;
+    top:0;
+    width:100vw;
+    left:0;
+    z-index: 99;
+}
+
+#logo {
+    width:110x;
+    height:110px;
+    margin-left: -30px;
+}
+ul{
+    list-style-type:none;
+    display: flex;
+    align-items: center; margin-left:-40px;
+
+}
+li a{
+    text-decoration:none;
+    color:#FBFBFB;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+#navbar{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#lowerNav {
+    width: 100vw;
+    display: grid;
+    grid-template-columns: 25% 50% 25%;
+    justify-items: center;
+    align-items: center;
+}
+
+#fondofijo{
+    position: fixed;
+    width: 70%;
+    height: 100vh;
+    bottom: 0; 
+    background-color:rgba(8, 8, 8, 0.718);
+    margin-left: 15%;
+    margin-right: 15%;
+    z-index: -1;
+}
+#fondodiv{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+#cartasProductos{
+    margin-top: 188px;
+    width: 80%;
+    margin-left: 10%;
+}
+#imagencarta{
+    padding-top: 15px;
+}
+#carta{
+    width: 21%;
+    margin: 20px;
+}
+th{
+    color:#F1F1F1;
+}
+td{
+    color:#F1F1F1;
+}
+#tablacarrito{ 
+    width:80%; 
+    margin-left:10%;
+}
+.textocarrito1{
+    padding-top: 200px;
+    color: #F1F1F1; 
+    width:80%; 
+    margin-left:10%
+}
+.textocarrito2{
+    color: #F1F1F1; 
+    width:80%; 
+    margin-left:10%
+}
+#botonesoperacion {
+    width:80%; 
+    margin-left:10%
+}
+#form {
+    margin-top: 220px;
+    margin-left: 25%;
+    width:50%;
+    color:#F1F1F1;
+    border: 3px solid #F1F1F1;
+    padding: 15px;
+    background-color: rgba(14,17,17,0.8);
+}
+#numerotarjeta{
+    margin-bottom: 10px;
+}
+#final{
+    margin-top: 20px;
+}
+#redessociales{
+    text-align: center;
+    margin: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #0e1111;
+    width: 70%;
+    height: 100px;
+}
+#gmail{
+    margin-left: 30px;
+    border-radius: 15px;
+}
+#instagram{
+    border-radius: 15px;
+}

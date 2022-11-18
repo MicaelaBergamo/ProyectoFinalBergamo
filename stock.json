@@ -1,0 +1,114 @@
+{"stock": [
+    {
+        "id":1,
+        "imagen":"pintura_taza_fria.jpg" ,
+        "nombre":"La taza fria - Acrílico 18x24",
+        "tipo":"pintura",
+        "precio":5000
+    },
+    {
+        "id":2,
+        "imagen":"pintura_gato_y_libro.jpg",
+        "nombre":"El gato y el libro - Óleo sobre tela 50x70",
+        "tipo":"pintura",
+        "precio":6000
+    },
+    {
+        "id":3,
+        "imagen":"pintura_barco_de_martin.jpg",
+        "nombre":"El barco de Martin - Óleo sobre lienzo ??x??",
+        "tipo":"pintura",
+        "precio":7000
+    },
+    {   
+        "id":4,
+        "imagen":"pintura_thom_yorke.jpg",
+        "nombre":"Thom Yorke - Acrílico sobre tela 27x35",
+        "tipo":"pintura",
+        "precio":5000
+    },
+    {
+        "id":5,
+        "imagen":"pintura_amy_march.jpg",
+        "nombre":"Amy March - Acuarela sobre papel 25x17",
+        "tipo":"pintura",
+        "precio":1000
+    },
+    {
+        "id":6,
+        "imagen":"plato_de_puerta.jpg",
+        "nombre":"Plato de puerta",
+        "tipo":"ceramica",
+        "precio":1500
+    },
+    {
+        "id":7,
+        "imagen":"porta_lapices_silla.jpg",
+        "nombre":"Porta lapices silla",
+        "tipo":"ceramica",
+        "precio":2000
+    },
+    {
+        "id":8,
+        "imagen":"platito_redondo.jpg",
+        "nombre":"Platito redondo",
+        "tipo":"ceramica",
+        "precio":2500
+    },
+    {
+        "id":9,
+        "imagen":"casita_adorno.png",
+        "nombre":"Casita adorno",
+        "tipo":"ceramica",
+        "precio":2000
+    },
+    {
+        "id":10,
+        "imagen":"casa_espina_adorno.jpg",
+        "nombre":"Casa espina adorno",
+        "tipo":"ceramica",
+        "precio":3000
+    },
+    {
+        "id":11,
+        "imagen":"set_platito_y_mate.jpg",
+        "nombre":"Set platito y mate",
+        "tipo":"ceramica",
+        "precio":4000
+    },
+    {
+        "id":12,
+        "imagen":"grabado_ya_no_somos_ninos.jpg",
+        "nombre":"Ya no somos niños",
+        "tipo":"grabado",
+        "precio":2000
+    },
+    {
+        "id":13,
+        "imagen":"grabado_sucios_y_rotos.jpg",
+        "nombre":"Sucios y rotos",
+        "tipo":"grabado",
+        "precio":2000
+    },
+    {
+        "id":14,
+        "imagen":"grabado_reposeras.jpg",
+        "nombre":"Reposeras",
+        "tipo":"grabado",
+        "precio":2000
+    },
+    {
+        "id":15,
+        "imagen":"grabado_humedo_y_frio.jpg",
+        "nombre":"Humedo y frio",
+        "tipo":"grabado",
+        "precio":2000
+    },
+    {
+        "id":16,
+        "imagen":"grabado_chiquitos.jpg",
+        "nombre":"Chiquitos",
+        "tipo":"grabado",
+        "precio":2000
+    }
+    ]}
